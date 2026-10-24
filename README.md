@@ -1,6 +1,6 @@
 # SnapShot
 
-**Scan any grocery item and instantly know if it's covered by SNAP — then compare prices across nearby stores.**
+**Scans grocery items and determines if it is covered by SNAP — then compare prices across nearby stores.**
 
 SnapShot is an iOS app that helps SNAP (food stamps) recipients make informed shopping decisions at the grocery store. Point your camera at a barcode, and within seconds you'll see whether that item is SNAP-eligible under federal rules, why it is or isn't, and what it costs at stores nearby.
 
