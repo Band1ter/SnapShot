@@ -6,12 +6,11 @@ SnapShot is an iOS app that helps SNAP (food stamps) recipients make informed sh
 
 ## Features
 
-- **Barcode Scanner** — Uses VisionKit (iOS 16+) for real-time camera scanning. Typed entry works on the Simulator and devices without a supported camera.
-- **SNAP Eligibility** — Applies the complete federal SNAP eligibility ruleset (alcohol, tobacco, hot foods, vitamins, pet food, and more) to every scanned product. Powered by Open Food Facts.
-- **Eligibility Basis** — Shows *why* an item is eligible or not — whether it's marked by the retailer, determined by a federal rule, or flagged for an in-store check.
-- **Price Comparison** — Compares prices across local stores so you can stretch your SNAP budget further.
-- **Browse by Category** — Explore items across Produce, Meat & Seafood, Dairy, Bakery, Frozen Foods, Beverages, Snacks, and more.
-- **Cart** — Save items as you shop and see your running total.
+- **SNAP Eligibility**: Applies the complete federal SNAP eligibility ruleset (alcohol, tobacco, hot foods, vitamins, pet food, and more) to every scanned product. Powered by Open Food Facts.
+- **Eligibility Basis**: Shows *why* an item is eligible or not, if it is marked by the retailer, determined by a federal rule, or flagged for an in-store check.
+- **Price Comparison**: Compares prices across local stores so you can stretch your SNAP budget further.
+- **Browse by Category**: Explore items across Produce, Meat & Seafood, Dairy, Bakery, Frozen Foods, Beverages, Snacks, and more.
+- **Cart**: Save items as you shop and see your running total and the amount of monthly benefits left over.
 
 
 ## Data Sources
