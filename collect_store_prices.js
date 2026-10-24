@@ -1,17 +1,6 @@
 // Snapshot price collector
 // ------------------------
 // Refreshes SnapShot/store_prices.json with current prices from the stores' online stores (via Instacart).
-//
-// How to run (takes ~15 minutes):
-//   1. In Chrome, open https://www.instacart.com/store/shoprite/s?k=milk
-//      (if asked for a ZIP code, enter 08902).
-//   2. Open the Console: View > Developer > JavaScript Console.
-//   3. Paste this whole file and press Return. Leave the tab open.
-//   4. When it finishes, Chrome downloads store_prices.json. Replace SnapShot/SnapShot/store_prices.json with it
-//      and rebuild the app.
-//
-// If it stops with "HTTP 400" errors, Instacart changed its site: the two hashes below need updating
-// (open the page above, then look in DevTools > Network for "SearchResultsPlacements" and "Items" requests).
 
 (async () => {
   const HASH = {
